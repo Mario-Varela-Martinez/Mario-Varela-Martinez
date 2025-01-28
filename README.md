@@ -25,7 +25,7 @@ A system that allows adding, editing, and deleting posts with images, utilizing 
 🔗 [Repository](#)
 
 ### 📫 How to Reach Me
-- ✉️ Email: mario@example.com
+- ✉️ Email: marimava@myuax.com
 - 💼 LinkedIn: [LinkedIn Profile](#)
 - 🐦 Twitter: [@MarioDev](#)
 
